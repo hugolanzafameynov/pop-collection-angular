@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+.products-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.product-card {
+    border-style: solid;
+    border-radius: 50px;
+    text-align: center;
+    margin: 10px;
+    background-color: cornflowerblue;
+    width: 700px;
+    height: inherit;
+}
+
+.product-description {
+    margin: 30px;
+    border-style: solid;
+    border-radius: 50px;
+    text-align: center;
+    background-color: white;
+}
+
+.product-description p {
+    margin: 30px;
+}
+
+.price-buttons {
+    display: inline;
+    flex-wrap: wrap;
+    padding: 10px;
+}

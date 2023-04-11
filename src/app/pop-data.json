@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Pikachu",
+    "description": "Pikachu est LE pokémon emblématique de la licence. De type Éclectique, ce pokemon a l’apparence d’un petit rongeur jaune qui est référencé comme le 25ème pokémon dans le pokédex, même s’il est très certainement le plus connu de tous !\n\nRusé et méfiant, Pikachu est un pokemon unique. Il lance des décharges de foudre sur ses ennemis lorsqu’il se sent menacé. Inspiré inspiré du pika, un petit rongeur des montagnes d'Amérique du Sud, il vit également dans les montagnes, en groupe et se nourrit de fruits bien qu’à son grand désarroi il soit connu pour griller les baies avec ses éclairs…\n\nPour cette nouvelle figurine de Pikachu, on retrouve un pokemon rieur et joueur ! On reconnaît parfaitement Pikachu, intégralement jaune, avec ses grands yeux noirs, ses pommettes rouges et ses longues oreilles pointues au bout noir.\n\nContrairement aux premières figurines de Pikachu, cette fois-ci Funko l’a représenté se tenant de travers avec les oreilles orientées dans des directions opposées comme s’il était en mouvement ! Enfin, Funko a bien évidemment poussé le détail jusqu’à la représentation de sa queue en forme d’éclair.",
+    "imageUrl": "https://figurines-pop.com/media/img/figurine/553-figurine-funko-pop-pokemon-pikachu-box.jpg",
+    "price": [10, 18, 20],
+    "selectedPrice": 10,
+    "likes": 0,
+    "isLiked": false,
+    "dateAdd": "2023-03-21T18:25:43.511Z",
+    "size": ["S", "L", "XL"]
+  },
+  {
+    "id": 2,
+    "title": "Salamèche",
+    "description": "Salamèche est le 4ème pokemon de la saga. Funko l’a naturellement représenté en figurine car ce pokemon a une place toute particulière dans l’esprit des fans : il s’agit d’un des 3 pokemons de démarrage.\n\nPokemon de feu, Salamèche est un petit dinosaure/dragon/lézard orange. La flamme au bout de sa queue indique son humeur et est une arme très offensive. Dans le jeu vidéo, Salamèche (de son nom anglais Charmander) évoluera en Reptincel, puis en Dracaufeu.\n\nEn tant que pokemon de la catégorie Feu, Salamèche dispose d’une attaque unique Flamèche, mais il peut également utiliser ces griffes pour blesser ses ennemis.\n\nLa figurine POP de Salamèche représente parfaitement le pokemon : un reptilien orange au bras et jambes très courtes, un ventre jaune, 4 dents aiguisées dans la bouche et 3 griffes aux pâtes. Le détail le plus important n’a pas été omis puisque la figurine dispose d’une petite flamme au bout de la queue de Salamèche !",
+    "imageUrl": "https://figurines-pop.com/media/img/figurine/455-figurine-funko-pop-pokemon-salameche-box.jpg",
+    "price": [10, 18, 20],
+    "selectedPrice": 10,
+    "likes": 0,
+    "isLiked": false,
+    "dateAdd": "2023-03-21T18:25:43.511Z",
+    "size": ["S", "L", "XL"]
+  }
+]

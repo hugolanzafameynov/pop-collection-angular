@@ -1,0 +1,7 @@
+<div>
+    Chercher : <input type="text" id="search" name="search" [(ngModel)]="search">
+    {{search}}
+</div>
+<div class="products-list">
+    <app-product-card *ngFor="let product of (products | sort: 'asc': 'name' | search: search)" [myProduct]="product"></app-product-card>
+</div>

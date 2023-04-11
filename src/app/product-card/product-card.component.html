@@ -1,0 +1,22 @@
+<div class="root">
+    <div class="product-card">
+        <h2>{{myProduct.title | uppercase}}</h2>
+        <img [src]='myProduct.imageUrl' width='50%'>
+        <div class="product-description">
+            <p>{{myProduct.description}}</p>
+        </div>
+        <div>
+            <p *ngIf="myProduct?.size?.length !== 1 && myProduct?.size?.length !== 0">
+            </p>
+            <div class="price-buttons" *ngFor="let size of myProduct.size; let index = index">
+                <button (click)="showPrize(index)">{{size}}</button>
+            </div>
+            <p class="price">Price: {{myProduct.selectedPrice | currency:'EUR'}}</p>
+            <p>
+                <b>{{myProduct.likes}} ♥ </b>
+                <button (click)="onLike()">{{myProduct.isLiked ? 'unlike' : 'like'}}</button>
+            </p>
+            <p>{{myProduct.dateAdd | date:'fullDate'}}</p>
+        </div>
+    </div>
+</div>
